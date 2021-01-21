@@ -1,0 +1,18 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "Unit-Testing",
+  "private": true,
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Niladri Goswami",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "webpack": "^5.13.0",
+    "webpack-cli": "^4.3.1"
+  },
+  "dependencies": {},
+  "keywords": []
+}
